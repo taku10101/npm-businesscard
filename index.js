@@ -1,11 +1,9 @@
 console.log(`
    ╭─────────────────────────────────────────────────────────────────────────────────╮
    │                                                                                 │
-   │                                                                                 │
-   │                                                                                 │
-   │            Work: HAL_Nagoya                                                     |
-   |        frontend: React/Next                                                     │
-   │         backend: ruby,go                                                        │
+   │             Work: HAL_Nagoya                                                    |
+   |         frontend: React/Next                                                    │
+   │          backend: ruby,go                                                       │
    |   infrastructure: home server                                                   │
    │                                                                                 │
    │          Zakończenie studiów w 2026 r.                                          │
@@ -17,5 +15,4 @@ console.log(`
    │                                                                                 │
    │                                                                                 │
    ╰─────────────────────────────────────────────────────────────────────────────────╯
-
 `);
